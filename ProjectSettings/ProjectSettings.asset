@@ -163,6 +163,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.DefaultCompany.vr_marine_education
+    Standalone: com.DefaultCompany.vr-marine-education
   buildNumber:
     Standalone: 0
     iPhone: 0
